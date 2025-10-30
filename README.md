@@ -6,12 +6,16 @@ Required tools:
 3. xcompmgr
 4. feh
 5. i3
-6. momoisay
-7. htop
-8. fastfetch
-9. clock-tty
-10. yay (for arch)
-11. kitty (or other terminal)
+6. kitty (or other terminal)
+7. momoisay (optional)
+8. htop (optional)
+9. fastfetch (optional)
+10. clock-tty (optional)
+11. yay (for arch)
+12. shell = bash
+
+this setup have autostart for some apps, so if you don't want it just comment or remove the line in i3 config (just search for "autostart workspaces")
+Install the polybar theme from this repo "https://github.com/adi1090x/polybar-themes.git"
 
 sorry for the messy code
 

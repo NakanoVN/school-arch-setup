@@ -1,0 +1,1 @@
+# school-arch-setup

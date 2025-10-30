@@ -15,6 +15,7 @@ Required tools:
 12. shell = bash
 
 this setup have autostart for some apps, so if you don't want it just comment or remove the line in i3 config (just search for "autostart workspaces")
+
 Install the polybar theme from this repo "https://github.com/adi1090x/polybar-themes.git"
 
 sorry for the messy code

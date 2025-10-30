@@ -2,7 +2,7 @@
 
 Required tools:
 1. rofi
-2. polybar
+2. polybar ("https://github.com/adi1090x/polybar-themes.git")
 3. xcompmgr
 4. feh
 5. i3

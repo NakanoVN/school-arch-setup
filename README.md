@@ -14,6 +14,8 @@ Required tools:
 11. kitty (or other terminal)
 
 sorry for the messy code
+
 i don't have time to organize it
+
 this setup is very lightweight and just have a few configuration so you could edit it as you want
   
